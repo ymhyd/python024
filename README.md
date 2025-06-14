@@ -1,0 +1,2 @@
+# python024
+python024基于Django的协同过滤算法招聘推荐系统
